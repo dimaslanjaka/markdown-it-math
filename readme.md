@@ -1,5 +1,5 @@
-# markdown-it-mathemathics
-markdown-it mathemathics plugin
+# markdown-it-mathematics
+markdown-it mathematics plugin
 
 ## Features
 
