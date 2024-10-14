@@ -16,7 +16,7 @@ import MarkdownIt from 'markdown-it';
 import { fs } from 'sbg-utility';
 import MarkdownItMathematics from '../src';
 
-const markdown = fs.readFileSync('test/fixtures/sample.md', 'utf-8');
+const markdown = fs.readFileSync(path.join(__dirname, 'test/fixtures/sample.md'), 'utf-8');
 
 const md = new MarkdownIt('default', { linkify: false });
 // `KaTeX` options can be supplied with the second argument to use.
