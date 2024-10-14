@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-mathematics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "markdown-it mathematics plugin",
   "type": "module",
   "main": "dist/index.js",
@@ -22,6 +22,9 @@
     "test": "test",
     "lib": "dist"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky",
@@ -45,7 +48,7 @@
   "dependencies": {
     "fs-extra": "^11.2.0",
     "katex": "^0.16.11",
-    "markdown-it": "workspace:^",
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/afcc286/release/markdown-it.tgz",
     "sbg-utility": "^1.1.8",
     "upath": "^2.0.1"
   },
@@ -84,5 +87,11 @@
     "rollup": "^4.24.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.3"
+  },
+  "resolutions": {
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/afcc286/release/markdown-it.tgz"
+  },
+  "overrides": {
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/afcc286/release/markdown-it.tgz"
   }
 }

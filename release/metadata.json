@@ -1,20 +1,29 @@
 {
   "/release/markdown-it-mathematics-1.0.0.tgz": {
     "integrity": {
-      "sha1": "23ff0f2a74fec8b85ad54ff249a66e421db80ba7",
-      "sha256": "JBsb5N8PsbvJq2UzLkjsAR7DoHqLhkA4D7ZWrL5Yn2Y=",
-      "md5": "5b6565e6a38aea0625a4dc3e07334a6a",
-      "sha512": "/gTwTsrChTVeh/JXKjQ9AOdjuHGoEsVbi1CK02P6okzvBIwWQKBQ/xV0hE6MCsUMOoA3T1ZEpkMB1s4/xKsxVA=="
+      "sha1": "069d0d1649913a68cf8e28ad92b307a945af4e62",
+      "sha256": "Y6b5pwIz7A7tRxzUC33C9n5Tsqk0JErymYEIrdI4cB4=",
+      "md5": "8e0bf2c46982650bdc0b3998a346c72b",
+      "sha512": "k17eUF7M5ftSD4JW3020PaROkThZ3wGVUOle8O5o9T4EtoYIBP+SrhGALv0CSVahh0UXp0mUHij6oem5BE8q7w=="
     },
-    "size": "37.21 KB"
+    "size": "4.98 KB"
   },
   "/release/markdown-it-mathematics.tgz": {
     "integrity": {
-      "sha1": "23ff0f2a74fec8b85ad54ff249a66e421db80ba7",
-      "sha256": "JBsb5N8PsbvJq2UzLkjsAR7DoHqLhkA4D7ZWrL5Yn2Y=",
-      "md5": "5b6565e6a38aea0625a4dc3e07334a6a",
-      "sha512": "/gTwTsrChTVeh/JXKjQ9AOdjuHGoEsVbi1CK02P6okzvBIwWQKBQ/xV0hE6MCsUMOoA3T1ZEpkMB1s4/xKsxVA=="
+      "sha1": "e3314a2688aa95cea2524167d57611f2d398aa8e",
+      "sha256": "dTCxg/af6jl7OdSo14LUiwC+XJ7Vv/AnRQ5Pl4UU6LI=",
+      "md5": "5495f718f599973b475b32308fcd7189",
+      "sha512": "jHVB4KhswkrzI9Ud0WEO2PnSyFllJf+kmUjFqNJreq+qBrcQluvQ7ouwa8i26XTsKQRt6DIRI8OSJLdJ9yGDog=="
     },
-    "size": "37.21 KB"
+    "size": "5.02 KB"
+  },
+  "/release/markdown-it-mathematics-1.0.1.tgz": {
+    "integrity": {
+      "sha1": "e3314a2688aa95cea2524167d57611f2d398aa8e",
+      "sha256": "dTCxg/af6jl7OdSo14LUiwC+XJ7Vv/AnRQ5Pl4UU6LI=",
+      "md5": "5495f718f599973b475b32308fcd7189",
+      "sha512": "jHVB4KhswkrzI9Ud0WEO2PnSyFllJf+kmUjFqNJreq+qBrcQluvQ7ouwa8i26XTsKQRt6DIRI8OSJLdJ9yGDog=="
+    },
+    "size": "5.02 KB"
   }
 }
