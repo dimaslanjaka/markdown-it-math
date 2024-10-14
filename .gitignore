@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+/dist
+.husky/_
+**/yarn.lock
+**/package-lock.json
+**/.yarn/cache*
+**/.yarn/*gz
+!/release/*

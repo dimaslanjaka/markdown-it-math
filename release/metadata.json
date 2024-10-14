@@ -1,0 +1,20 @@
+{
+  "/release/markdown-it-mathematics-1.0.0.tgz": {
+    "integrity": {
+      "sha1": "23ff0f2a74fec8b85ad54ff249a66e421db80ba7",
+      "sha256": "JBsb5N8PsbvJq2UzLkjsAR7DoHqLhkA4D7ZWrL5Yn2Y=",
+      "md5": "5b6565e6a38aea0625a4dc3e07334a6a",
+      "sha512": "/gTwTsrChTVeh/JXKjQ9AOdjuHGoEsVbi1CK02P6okzvBIwWQKBQ/xV0hE6MCsUMOoA3T1ZEpkMB1s4/xKsxVA=="
+    },
+    "size": "37.21 KB"
+  },
+  "/release/markdown-it-mathematics.tgz": {
+    "integrity": {
+      "sha1": "23ff0f2a74fec8b85ad54ff249a66e421db80ba7",
+      "sha256": "JBsb5N8PsbvJq2UzLkjsAR7DoHqLhkA4D7ZWrL5Yn2Y=",
+      "md5": "5b6565e6a38aea0625a4dc3e07334a6a",
+      "sha512": "/gTwTsrChTVeh/JXKjQ9AOdjuHGoEsVbi1CK02P6okzvBIwWQKBQ/xV0hE6MCsUMOoA3T1ZEpkMB1s4/xKsxVA=="
+    },
+    "size": "37.21 KB"
+  }
+}

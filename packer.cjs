@@ -17,7 +17,7 @@ const crypto = require('crypto');
 //// CHECK REQUIRED PACKAGES
 
 const scriptname = `[packer]`;
-const isAllPackagesInstalled = ['cross-spawn', 'ansi-colors', 'glob', 'upath', 'minimist'].map((name) => ({
+const isAllPackagesInstalled = ['cross-spawn', 'glob', 'upath', 'minimist'].map((name) => ({
   name,
   installed: isPackageInstalled(name)
 }));
