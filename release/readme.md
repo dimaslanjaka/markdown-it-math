@@ -4,7 +4,8 @@
 | :--- | :--- |
 | 1.0.0 | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/1b88ffd/release/markdown-it-mathematics-1.0.0.tgz |
 | 1.0.1 | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/1b88ffd/release/markdown-it-mathematics-1.0.1.tgz |
-| latest | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/1b88ffd/release/markdown-it-mathematics.tgz |
+| 1.0.2 | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/d76ebf3/release/markdown-it-mathematics-1.0.2.tgz |
+| latest | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/d76ebf3/release/markdown-it-mathematics.tgz |
 | latest | https://github.com/dimaslanjaka/markdown-it-mathematics/raw/master/release/markdown-it-mathematics.tgz |
 
 use this tarball with `resolutions`:

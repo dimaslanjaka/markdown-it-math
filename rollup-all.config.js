@@ -20,12 +20,23 @@ const inputs = glob.globSync('src/**/*.{ts,js,cjs,mjs}', { posix: true });
  */
 const cjs = {
   input: inputs,
-  output: {
-    dir: 'dist',
-    sourcemap: false,
-    format: 'cjs',
-    preserveModules: true
-  },
+  output: [
+    {
+      dir: 'dist',
+      format: 'cjs',
+      sourcemap: false,
+      preserveModules: true,
+      exports: 'named'
+    },
+    {
+      dir: 'dist',
+      format: 'esm',
+      sourcemap: false,
+      preserveModules: true,
+      exports: 'named',
+      entryFileNames: '[name].mjs'
+    }
+  ],
   plugins: [
     resolve({ preferBuiltins: true }), // Resolve node_modules packages
     commonjs(), // Convert CommonJS modules to ES6

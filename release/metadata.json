@@ -10,12 +10,12 @@
   },
   "/release/markdown-it-mathematics.tgz": {
     "integrity": {
-      "sha1": "588e70eacfca6fa78c9001981ae410e6960f73c2",
-      "sha256": "F3o09iLUcn3gdxRrSMU4u5f6ISGLkBHi3mzW9wV7XMg=",
-      "md5": "6c3cd0fa292e015aeb7f73abce2e115a",
-      "sha512": "59G+c/dTrsgfpXQbl2ycSGpoKwe+hHca+ljtN1Khf3Q8UziiGxxwJ2HkQ3FjrXHbLbZrDkSSlEkSR56H/f0T6Q=="
+      "sha1": "84b7e85ee5b06dc3de4a1e4be6df41ed75220e70",
+      "sha256": "rKLpxsjrIfi56Hv4e3WHOldAeE+N04ABT2GtamsO5c8=",
+      "md5": "1d9e6cff498da419196f27846180eb3f",
+      "sha512": "3voLfXkpwWnKTFr1thloRfvnwAoMQ9d9RaDQfapl6GimjAt7x5ty0fr+fgp1d7cjCIHbXh+r2j7Qsu/4s+i9lw=="
     },
-    "size": "5.03 KB"
+    "size": "5.28 KB"
   },
   "/release/markdown-it-mathematics-1.0.1.tgz": {
     "integrity": {
@@ -34,5 +34,14 @@
       "sha512": "59G+c/dTrsgfpXQbl2ycSGpoKwe+hHca+ljtN1Khf3Q8UziiGxxwJ2HkQ3FjrXHbLbZrDkSSlEkSR56H/f0T6Q=="
     },
     "size": "5.03 KB"
+  },
+  "/release/markdown-it-mathematics-1.0.3.tgz": {
+    "integrity": {
+      "sha1": "84b7e85ee5b06dc3de4a1e4be6df41ed75220e70",
+      "sha256": "rKLpxsjrIfi56Hv4e3WHOldAeE+N04ABT2GtamsO5c8=",
+      "md5": "1d9e6cff498da419196f27846180eb3f",
+      "sha512": "3voLfXkpwWnKTFr1thloRfvnwAoMQ9d9RaDQfapl6GimjAt7x5ty0fr+fgp1d7cjCIHbXh+r2j7Qsu/4s+i9lw=="
+    },
+    "size": "5.28 KB"
   }
 }

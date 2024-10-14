@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-mathematics",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "markdown-it mathematics plugin",
   "type": "module",
   "main": "dist/index.js",
