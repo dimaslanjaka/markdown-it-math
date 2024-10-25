@@ -50,7 +50,7 @@
   "dependencies": {
     "fs-extra": "^11.2.0",
     "katex": "^0.16.11",
-    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/95599a5a20b2f162a776abaa3a0b7f8aaac2f6e1/release/markdown-it.tgz",
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/17ccc825cbb3e4c6d59edada5f6d93f27075d752/release/markdown-it.tgz",
     "sbg-utility": "^1.1.8",
     "upath": "^2.0.1"
   },
@@ -93,10 +93,10 @@
   },
   "resolutions": {
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/80999ac7a7031a81e11ddb5fab0f8ba433041c98/release/cross-spawn.tgz",
-    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/95599a5a20b2f162a776abaa3a0b7f8aaac2f6e1/release/markdown-it.tgz"
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/17ccc825cbb3e4c6d59edada5f6d93f27075d752/release/markdown-it.tgz"
   },
   "overrides": {
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/raw/80999ac7a7031a81e11ddb5fab0f8ba433041c98/release/cross-spawn.tgz",
-    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/95599a5a20b2f162a776abaa3a0b7f8aaac2f6e1/release/markdown-it.tgz"
+    "markdown-it": "https://github.com/dimaslanjaka/markdown-it/raw/17ccc825cbb3e4c6d59edada5f6d93f27075d752/release/markdown-it.tgz"
   }
 }
